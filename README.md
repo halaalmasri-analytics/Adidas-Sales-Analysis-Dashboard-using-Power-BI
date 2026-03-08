@@ -44,5 +44,3 @@ This project analyzes **Adidas sales data** to uncover year-over-year performanc
 **Hala Al-Masri**
 🎓 Business Intelligence Student — An-Najah National University
 
-**Hala Al-Masri**
-🎓 Business Intelligence Student — An-Najah National University
