@@ -9,7 +9,10 @@
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](dashboard-screenshot.png)
+![Dashboard 1](1.png)
+![Dashboard 2](2.png)
+![Dashboard 3](3.png)
+![Dashboard 4](4.png)
 
 ---
 
